@@ -17,7 +17,6 @@ fun pedirNum(min: Int, max: Int): Int? {
     }
 }
 
-
 /**
  * Realiza una pregunta para contestar con s/si ó n/no
  *
